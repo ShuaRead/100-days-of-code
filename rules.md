@@ -4,7 +4,7 @@
 ### *I will code for at least an hour every day for the next 100 days.*
 
 #### Start Date
-April 25th, 2024. [PUT YOUR DATE HERE]
+April 25th, 2024.
 
 ## Additional Rules
 1. I will post on discord about my progress every day -> using the hashtag #100DaysOfCode
